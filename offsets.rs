@@ -1,4 +1,4 @@
-// Generated using https://github.com/a2x/cs2-dumper
+// // https://quahacks.com/
 // 2024-06-25 22:56:23.392130600 UTC
 
 #![allow(non_upper_case_globals, unused)]
