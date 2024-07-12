@@ -1,5 +1,5 @@
-// // https://quahacks.com/
-// 2024-07-02 22:14:16.333089500 UTC
+// Generated using https://github.com/a2x/cs2-dumper
+// 2024-07-12 02:07:06.756971700 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: client.dll
