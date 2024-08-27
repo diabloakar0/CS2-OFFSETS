@@ -1,26 +1,27 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
 pub mod cs2_dumper {
     // Module: client.dll
     pub mod buttons {
-        pub const attack: usize = 0x181D170;
-        pub const attack2: usize = 0x181D200;
-        pub const back: usize = 0x181D440;
-        pub const duck: usize = 0x181D710;
-        pub const forward: usize = 0x181D3B0;
-        pub const jump: usize = 0x181D680;
-        pub const left: usize = 0x181D4D0;
-        pub const lookatweapon: usize = 0x1A28D70;
-        pub const reload: usize = 0x181D0E0;
-        pub const right: usize = 0x181D560;
-        pub const showscores: usize = 0x1A28C50;
-        pub const sprint: usize = 0x181D050;
-        pub const turnleft: usize = 0x181D290;
-        pub const turnright: usize = 0x181D320;
-        pub const r#use: usize = 0x181D5F0;
-        pub const zoom: usize = 0x1A28CE0;
+        pub const attack: usize = 0x17CC020;
+        pub const attack2: usize = 0x17CC0B0;
+        pub const back: usize = 0x17CC2F0;
+        pub const duck: usize = 0x17CC5C0;
+        pub const forward: usize = 0x17CC260;
+        pub const jump: usize = 0x17CC530;
+        pub const left: usize = 0x17CC380;
+        pub const lookatweapon: usize = 0x19D9CB0;
+        pub const reload: usize = 0x17CBF90;
+        pub const right: usize = 0x17CC410;
+        pub const showscores: usize = 0x19D9B90;
+        pub const sprint: usize = 0x17CBF00;
+        pub const turnleft: usize = 0x17CC140;
+        pub const turnright: usize = 0x17CC1D0;
+        pub const r#use: usize = 0x17CC4A0;
+        pub const zoom: usize = 0x19D9C20;
     }
 }

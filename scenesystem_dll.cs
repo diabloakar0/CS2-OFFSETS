@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: scenesystem.dll
-    // Classes count: 9
-    // Enums count: 1
+    // Class count: 9
+    // Enum count: 1
     public static class ScenesystemDll {
         // Alignment: 1
         // Member count: 4

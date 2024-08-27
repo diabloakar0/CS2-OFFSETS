@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: resourcesystem.dll
-    // Classes count: 58
-    // Enums count: 2
+    // Class count: 58
+    // Enum count: 2
     public static class ResourcesystemDll {
         // Alignment: 1
         // Member count: 9

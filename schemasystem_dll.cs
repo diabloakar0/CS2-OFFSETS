@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: schemasystem.dll
-    // Classes count: 7
-    // Enums count: 2
+    // Class count: 7
+    // Enum count: 2
     public static class SchemasystemDll {
         // Alignment: 1
         // Member count: 81

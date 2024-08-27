@@ -1,13 +1,14 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
 pub mod cs2_dumper {
     pub mod schemas {
         // Module: animationsystem.dll
-        // Classes count: 401
-        // Enums count: 77
+        // Class count: 401
+        // Enum count: 77
         pub mod animationsystem_dll {
             // Alignment: 4
             // Member count: 17

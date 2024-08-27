@@ -1,5 +1,6 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 #pragma once
 
@@ -8,13 +9,13 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: networksystem.dll
-        // Classes count: 1
-        // Enums count: 0
+        // Class count: 1
+        // Enum count: 0
         namespace networksystem_dll {
             // Parent: None
             // Field count: 1
             namespace ChangeAccessorFieldPathIndex_t {
-                constexpr std::ptrdiff_t m_Value = 0x0; // int16
+                constexpr std::ptrdiff_t m_Value = 0x0; // int32
             }
         }
     }

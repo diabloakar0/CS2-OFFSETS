@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: engine2.dll
-    // Classes count: 44
-    // Enums count: 4
+    // Class count: 44
+    // Enum count: 4
     public static class Engine2Dll {
         // Alignment: 4
         // Member count: 3

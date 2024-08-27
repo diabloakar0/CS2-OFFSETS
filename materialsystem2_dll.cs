@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: materialsystem2.dll
-    // Classes count: 13
-    // Enums count: 5
+    // Class count: 13
+    // Enum count: 5
     public static class Materialsystem2Dll {
         // Alignment: 4
         // Member count: 4

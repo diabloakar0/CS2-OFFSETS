@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: soundsystem.dll
-    // Classes count: 63
-    // Enums count: 18
+    // Class count: 63
+    // Enum count: 18
     public static class SoundsystemDll {
         // Alignment: 4
         // Member count: 2

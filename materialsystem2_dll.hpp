@@ -1,5 +1,6 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 #pragma once
 
@@ -8,8 +9,8 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: materialsystem2.dll
-        // Classes count: 13
-        // Enums count: 5
+        // Class count: 13
+        // Enum count: 5
         namespace materialsystem2_dll {
             // Alignment: 4
             // Member count: 4

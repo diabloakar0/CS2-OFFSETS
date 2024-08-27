@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: host.dll
-    // Classes count: 2
-    // Enums count: 0
+    // Class count: 2
+    // Enum count: 0
     public static class HostDll {
         // Parent: CAnimScriptBase
         // Field count: 1

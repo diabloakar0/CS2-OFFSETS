@@ -1,5 +1,6 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 #pragma once
 
@@ -8,8 +9,8 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: vphysics2.dll
-        // Classes count: 88
-        // Enums count: 2
+        // Class count: 88
+        // Enum count: 2
         namespace vphysics2_dll {
             // Alignment: 4
             // Member count: 3

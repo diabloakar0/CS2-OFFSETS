@@ -1,5 +1,6 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 #pragma once
 
@@ -8,8 +9,8 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: particles.dll
-        // Classes count: 445
-        // Enums count: 76
+        // Class count: 445
+        // Enum count: 76
         namespace particles_dll {
             // Alignment: 4
             // Member count: 6

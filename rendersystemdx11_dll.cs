@@ -1,10 +1,11 @@
 // // https://quahacks.com/
-// 2024-07-31 23:20:11.52.197332800 UTC
+
+// 2024-08-27 13:19:10.151422310 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: rendersystemdx11.dll
-    // Classes count: 3
-    // Enums count: 5
+    // Class count: 3
+    // Enum count: 5
     public static class Rendersystemdx11Dll {
         // Alignment: 4
         // Member count: 13
